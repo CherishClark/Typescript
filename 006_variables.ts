@@ -29,6 +29,6 @@
 
 // interpolation
 
-var msg : string = "Danielle";
-console.log("A message to my sister" + msg + "filled with text");
-console.log(`A long message to ${msg} filled with text`);
+// var msg : string = "Danielle";
+// console.log("A message to my sister" + msg + "filled with text");
+// console.log(`A long message to ${msg} filled with text`);
