@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "006_variables.ts"
+    "008_type_alias.ts"
   ]
 
 }
