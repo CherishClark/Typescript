@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "018_immediately_invoked_functions.ts"
+    "019_closures_introduction.ts"
   ]
 
 }
