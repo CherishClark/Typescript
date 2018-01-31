@@ -3,7 +3,7 @@
     "sourceMap": true
   },
   "files": [
-    "026_namespaces.ts"
+    "028_higher_order_functions_callbacks.ts"
   ]
 
 }
