@@ -1,7 +1,9 @@
+// ? in interface makes it optional to pass in
+
 interface User {
   email : string;
-  firstName : string;
-  lastName : string;
+  firstName? : string;
+  lastName? : string;
  }
 
  function profile(user: User) : string {
